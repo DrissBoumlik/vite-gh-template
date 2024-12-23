@@ -7,7 +7,9 @@ the html file is splitted into imported ejs files (css too)
 Fork this repo, then do this
 
 `git clone https://github.com/YOUR_USER_NAME/vite-gh-template`
+
 `cd vite-gh-template`
+
 `npm install`
 
 in vite.config.js edit the base key (leave it as it is Or put your repo name in case you changed it while forking)
