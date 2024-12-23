@@ -11,7 +11,7 @@ export default defineConfig({
             input: 'src/index.html',
         },
     },
-    base: '/repo-name/',
+    base: '/vite-gh-template/',
     resolve: {
         alias: {
             '@': resolve(__dirname, 'src'),
